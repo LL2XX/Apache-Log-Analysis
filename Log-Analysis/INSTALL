@@ -1,0 +1,4 @@
+libLogAnalysis文件夹下运行make install命令自动安装
+
+libIPLocator.a静态库至/usr/local/lib/
+libLogAnalysis.so动态库至/usr/local/lib/和/usr/lib/
